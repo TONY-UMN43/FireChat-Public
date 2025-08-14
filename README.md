@@ -38,7 +38,7 @@ The responsive CSS design was assisted by Google Gemini, which provided layout s
 - Frontend: React
 - Backend: FastAPI
 - Database: PostgreSQL
-- Messaging: Firebase RealTime Database
+- User Messages: Firebase RealTime Database
 
 
 ## How to Run (Only for Recruiters)
