@@ -88,13 +88,13 @@ Used real-life features such as JWT authentication, Firebase RealTime Database, 
 This project reflects the process of turning high-level System Design ideas into a polished program. It also illustrated adaptability for using Google Gemini when there are technical limitations with testing.
 
 # Screenshots
-| User Messages | User Feef |
+| User Messages | User Feed |
 |--------------|-----------|
 | ![User-Profile Page](assets/Screen-Shot-messages-page.png) | ![User-Feed Page](assets/Screen-Shot-User-Feed.png) |
 
 | Home Page |
 |-----------|
-| ![Home Page](Screen-Shot-Home-page.png) |
+| ![Home Page](assets/Screen-Shot-Home-page.png) |
 
 
 ## Future Improvements
