@@ -47,11 +47,11 @@ Because the backend contains sensitive business logic, the full repository is pr
 
 Get Files
 ```Terminal
-git clone git@github.com:NAME/LinkHub.git
+git clone git@github.com:NAME/FireBase.git
 ```
 Install FastAPI Dependencies
 ```Terminal
-cd LinkHub
+cd FireBase
 cd Backend
 pip install -r requirements.txt
 ```
@@ -79,13 +79,13 @@ uvicorn main:app --reload
 Run the application from there
 
 ## Project Impact
-LinkHub showcases my ability to design, develop, and deploy a full-stack production-ready product for users.
+FireChat showcases my ability to design, develop, and deploy a full-stack production-ready product for users.
 
 It shows skills in every area of full-stack - building a secure backend with FastAPI, creating a PostgreSQL database to store persistent data, and developing an optimized React frontend with the help of Google Gemini.
 
-Used real-life features such as JWT authentication, company job postings, and user feeds that fetch data from the database.
+Used real-life features such as JWT authentication, Firebase RealTime Database, and profile editing, which updates the database.
 
-This project reflects the process of turning high-level System Design ideas into a polished program. It also reflects being able to use Google Gemini when there are technical limitations.
+This project reflects the process of turning high-level System Design ideas into a polished program. It also reflects being able to use Google Gemini when there are technical constraints.
 
 # Screenshots
 | User Profile | User Feed |
@@ -99,14 +99,13 @@ This project reflects the process of turning high-level System Design ideas into
 
 ## Future Improvements
 - **Performance**: Implement a Redis cache system to decrease latency and load times
-- **Roles**: Add role-specific privileges for employees added to the company
-  - HR & Recruiters can create job postings and review applications
-  - The owner can edit the company profile
-  - General members are listed under company employees, but don't have any other privileges
-- **Job Applications**
-  - Allow users to fill out LinkedIn Job application on website
-  - Add a way for users to view their job applications
-  - Add a pipeline for accepted job applicants
+- **Roles**: Add role-specific privileges for members of a group chat 
+  - Creators of a group chat are assigned the admin of the group chat
+  - Admins are the only ones who can add and remove members
+  - Handle the edge case of the admin leaving the group chat
+- **User Experience**
+  - Add Typing Indicators
+  - Add Last Read Indicators
 - **Images**: Use AWS to allow users to upload profile pictures
 
 
