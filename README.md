@@ -8,7 +8,7 @@ Do not copy, modify, or redistribute any part of this code without explicit perm
 
 
 ## Description
-Firebase is a messaging project that was inspired by LinkedIn.
+FireChat is a messaging project that was inspired by Instagram.
 
 1. Create an account or log in with an existing one.
 
