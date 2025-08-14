@@ -85,7 +85,7 @@ It shows skills in every area of full-stack - building a secure backend with Fas
 
 Used real-life features such as JWT authentication, Firebase RealTime Database, and profile editing, which updates the database.
 
-This project reflects the process of turning high-level System Design ideas into a polished program. It also reflects being able to use Google Gemini when there are technical constraints.
+This project reflects the process of turning high-level System Design ideas into a polished program. It also illustrated adaptability for using Google Gemini when there are technical limitations with testing.
 
 # Screenshots
 | User Profile | User Feed |
