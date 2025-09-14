@@ -5,6 +5,12 @@ This project is for **viewing purposes only**.
 Do not copy, modify, or redistribute any part of this code without explicit permission.  
 © 2025 Tony Akinyemi. All rights reserved.
 
+## Live Demo
+Demo Account:
+- email: demo@gmail.com
+- password: demo
+
+- [Live Site](https://messaging-demo-umber.vercel.app/)
 
 
 ## Description
@@ -19,9 +25,6 @@ FireChat is a messaging project that was inspired by Instagram.
 4. Connect with other users by using the friend request system.
 
 The responsive CSS design was assisted by Google Gemini, which provided layout suggestions and styling guidance. The CSS was then optimized for the final design to ensure that it worked seamlessly across mobile, tablet, laptop, and desktop devices.
-
-## Live Demo
-- [Live Site](https://messaging-demo-umber.vercel.app/)
 
 ## Features
 - User Authentication using OAuth2 & JWT
