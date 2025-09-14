@@ -11,8 +11,8 @@ Experience FireChat with a demo account:
 [Live Site](https://messaging-demo-umber.vercel.app/)
 
 Demo Account:
-- email: demo@gmail.com
-- password: demo
+- Email: demo@gmail.com
+- Password: demo
 
 
 ## Description
