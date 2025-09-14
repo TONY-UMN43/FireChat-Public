@@ -8,7 +8,7 @@ Do not copy, modify, or redistribute any part of this code without explicit perm
 ## Live Demo
 Experience FireChat with a demo account:
 
-- [Live Site](https://messaging-demo-umber.vercel.app/)
+[Live Site](https://messaging-demo-umber.vercel.app/)
 
 Demo Account:
 - email: demo@gmail.com
